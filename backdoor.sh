@@ -10,7 +10,7 @@
 #		-v 	This is the version of PAM of the target machine
 #		-p	This is the password of your choice
 #
-#Author:	Thomas Slota
+#Author:	
 #
 #!/bin/bash
 
